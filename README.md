@@ -1,4 +1,4 @@
-# Project Name
+# KR76 - 2FA POC
 
 This project contains the backend system for generating and validating single-use tokens using AWS services.
 
@@ -53,7 +53,7 @@ Copy the provided URLs for the GenerateTokenAPI and ValidateTokenAPI.
 4. Send requests to these endpoints to test the token generation and validation functionality.
 
 ## Architecture Diagram
-![2FA Architecture](https://example.com/2fa-architecture.png) *(Note: Replace with an actual diagram)*
+![2FA Architecture](2fa-architecture.jpeg)
 
 ## Architecture Components
 
